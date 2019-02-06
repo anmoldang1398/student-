@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author anmol dang 991515624 dragon
+ * @author anmol dang 991515624 dragon rwstrwtrsrgs
  */
 public class Student {
 
