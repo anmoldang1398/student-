@@ -32,6 +32,27 @@ public class Student {
     }
 
     private int ID;
+    
+    private boolean parttime;
+
+    /**
+     * Get the value of parttime
+     *
+     * @return the value of parttime
+     */
+    public boolean isParttime() {
+        return parttime;
+    }
+
+    /**
+     * Set the value of parttime
+     *
+     * @param parttime new value of parttime
+     */
+    public void setParttime(boolean parttime) {
+        this.parttime = parttime;
+    }
+
     private String name;
 
     private String email;
